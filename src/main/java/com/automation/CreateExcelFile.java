@@ -23,7 +23,7 @@ public class CreateExcelFile {
 
         // Add sample employee data rows
         Object[][] employeeData = {
-            {1, "John Doe", "Manager", 75000, "HR"},
+            {1, "John Doee", "Manager", 75000, "HR"},
             {2, "Jane Smith", "Developer", 60000, "IT"},
             {3, "Sam Wilson", "Analyst", 50000, "Finance"},
             {4, "Lucy Brown", "Designer", 65000, "Design"},
